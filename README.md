@@ -1,4 +1,4 @@
-Using React and Firebase to create an instagram clone from scratch.  the powerful combination of React for front-end development and Firebase for back-end services, created an Instagram-like platform with features such as user authentication, profile customization, post creation, real-time interactions and more.
+Used React and Firebase to create an instagram clone from scratch.  the powerful combination of React for front-end development and Firebase for back-end services, created an Instagram-like platform with features such as user authentication, profile customization, post creation, real-time interactions and more.
 
 
 # React + Vite
